@@ -1,4 +1,4 @@
-# CSC584-Individual-Assignment-1(Personal Profile Application)
+# CSC584-Individual-Assignment-1 (Personal Profile Application)
 
 ## Project Description
 
